@@ -70,9 +70,6 @@ I'm a passionate **Full Stack Developer** who loves crafting clean, scalable web
 
 <div align="center">
 
-![Manas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ManasCoding&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ManasCoding&layout=compact&theme=tokyonight&hide_border=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=ManasCoding&theme=tokyonight&hide_border=true)
 
