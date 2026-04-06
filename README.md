@@ -34,26 +34,35 @@ I'm a passionate **Full Stack Developer** who loves crafting clean, scalable web
 
 ## 🛠️ Tech Stack
 
-### 🎨 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-
-### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-FF6C37?style=flat-square&logo=postman&logoColor=white)
-
-### 🗄️ Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-### 🧰 Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+<table>
+  <tr>
+    <td valign="top" width="25%">
+      <h4>🎨 Frontend</h4>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /><br/>
+      <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+    </td>
+    <td valign="top" width="25%">
+      <h4>⚙️ Backend</h4>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/REST%20API-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+    </td>
+    <td valign="top" width="25%">
+      <h4>🗄️ Databases</h4>
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+    </td>
+    <td valign="top" width="25%">
+      <h4>🧰 Tools</h4>
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -89,15 +98,36 @@ I'm a passionate **Full Stack Developer** who loves crafting clean, scalable web
 
 <div align="center">
 
-Whether you have a project in mind, want to collaborate, or just want to say hi — my inbox is always open.
+<p>Whether you have a project in mind, want to collaborate, or just want to say hi — my inbox is always open.</p>
 
-**📧** [gumansingh.dev.2000@gmail.com](mailto:gumansingh.dev.2000@gmail.com)
-**💼** [linkedin.com/in/manas-kumar-gumansingh](https://www.linkedin.com/in/manas-kumar-gumansingh)
-**🐙** [github.com/ManasCoding](https://github.com/ManasCoding)
+<table>
+  <tr>
+    <td align="center" width="200px">
+      <a href="mailto:gumansingh.dev.2000@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /><br/>
+        <sub><b>gumansingh.dev.2000<br/>@gmail.com</b></sub>
+      </a>
+    </td>
+    <td align="center" width="200px">
+      <a href="https://www.linkedin.com/in/manas-kumar-gumansingh">
+        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /><br/>
+        <sub><b>manas-kumar-gumansingh</b></sub>
+      </a>
+    </td>
+    <td align="center" width="200px">
+      <a href="https://github.com/ManasCoding">
+        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /><br/>
+        <sub><b>ManasCoding</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
----
+<br/>
 
-*"Code is not just instructions for machines — it's a craft."*
+> *"Code is not just instructions for machines — it's a craft."*
+
+<br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ManasCoding&color=0e75b6&style=flat-square)
 
